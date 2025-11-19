@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hedr-connect-platform/static/css/main.30ce1ee5.css",
+    "main.js": "/hedr-connect-platform/static/js/main.65453612.js",
+    "static/js/453.78a0f263.chunk.js": "/hedr-connect-platform/static/js/453.78a0f263.chunk.js",
+    "index.html": "/hedr-connect-platform/index.html",
+    "main.30ce1ee5.css.map": "/hedr-connect-platform/static/css/main.30ce1ee5.css.map",
+    "main.65453612.js.map": "/hedr-connect-platform/static/js/main.65453612.js.map",
+    "453.78a0f263.chunk.js.map": "/hedr-connect-platform/static/js/453.78a0f263.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30ce1ee5.css",
+    "static/js/main.65453612.js"
+  ]
+}
